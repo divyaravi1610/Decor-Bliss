@@ -1262,6 +1262,11 @@ h2{
 
 .about4-container{
     position: absolute;
+}
+
+.about4-container h1,
+.about4-container p,
+.about4-container button{
     top:40%;
     left: 10%;
     font-weight: bold;
