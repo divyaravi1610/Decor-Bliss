@@ -857,7 +857,6 @@ h2{
 
 
 
-
 #cards{
     background-color:blueviolet;
 }
@@ -1262,7 +1261,7 @@ h2{
 
 .about4-container{
     position: absolute;
-    margin-bottom:100px;
+    margin-bottom:200px;
     left: 10%;
     font-weight: bold;
 }
