@@ -954,11 +954,12 @@ h2{
 .about1-container img{
     object-fit: cover;
     width: 100%;
+    border-radius:5px;
 }
 
 .about2-container{
     position: absolute;
-    top:30%;
+    top:50%;
     left: 20%;
     font-weight: bold;
 }
