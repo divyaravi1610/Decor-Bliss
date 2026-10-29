@@ -1249,6 +1249,8 @@ h2{
 
 .overlay-container{
     position: relative;
+    width:100%;
+    height:500px;
 
 }
 
@@ -1261,7 +1263,7 @@ h2{
 
 .about4-container{
     position: absolute;
-    top:50%;
+    top:40%;
     left: 10%;
     font-weight: bold;
 }
