@@ -1262,6 +1262,7 @@ h2{
 
 .about4-container{
     position: absolute;
+    margin-bottom:100px;
     left: 10%;
     font-weight: bold;
 }
