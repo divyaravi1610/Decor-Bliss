@@ -1270,7 +1270,6 @@ h2{
     top:30%;
     right:80px;
     font-weight: bold;
-    text-align:left;
 }
 
 .about4-container h1{
@@ -1280,6 +1279,7 @@ h2{
 
 .about4-container p{
     margin-top: 5px;
+    margin-left:0;
 }
 
 .about4-container button{
@@ -1289,6 +1289,7 @@ h2{
     border: none;
     font-weight: bold;
     padding: 7px;
+    margin-left:0;
 }
 
 
