@@ -1170,12 +1170,13 @@ h2{
     color: orangered;
 }
 
-.team-container #apps{
+#apps{
    padding: 10px;
    display: flex;
    justify-content: center;
    align-items: center;
    gap: 10px;
+   color:black;
 }
 
 
